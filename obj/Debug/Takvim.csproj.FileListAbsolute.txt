@@ -1,0 +1,33 @@
+C:\Users\Barış\source\repos\Takvim\bin\Debug\Takvim.exe.config
+C:\Users\Barış\source\repos\Takvim\bin\Debug\Takvim.exe
+C:\Users\Barış\source\repos\Takvim\bin\Debug\Takvim.pdb
+C:\Users\Barış\source\repos\Takvim\obj\Debug\Takvim.csproj.AssemblyReference.cache
+C:\Users\Barış\source\repos\Takvim\obj\Debug\Takvim.Form1.resources
+C:\Users\Barış\source\repos\Takvim\obj\Debug\Takvim.Properties.Resources.resources
+C:\Users\Barış\source\repos\Takvim\obj\Debug\Takvim.csproj.GenerateResource.cache
+C:\Users\Barış\source\repos\Takvim\obj\Debug\Takvim.csproj.CoreCompileInputs.cache
+C:\Users\Barış\source\repos\Takvim\obj\Debug\Takvim.exe
+C:\Users\Barış\source\repos\Takvim\obj\Debug\Takvim.pdb
+C:\Users\Barış\Desktop\Projem\Takvim\bin\Debug\Takvim.exe.config
+C:\Users\Barış\Desktop\Projem\Takvim\bin\Debug\Takvim.exe
+C:\Users\Barış\Desktop\Projem\Takvim\bin\Debug\Takvim.pdb
+C:\Users\Barış\Desktop\Projem\Takvim\obj\Debug\Takvim.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Projem\Takvim\obj\Debug\Takvim.Form1.resources
+C:\Users\Barış\Desktop\Projem\Takvim\obj\Debug\Takvim.Properties.Resources.resources
+C:\Users\Barış\Desktop\Projem\Takvim\obj\Debug\Takvim.UserControlBlank.resources
+C:\Users\Barış\Desktop\Projem\Takvim\obj\Debug\Takvim.csproj.GenerateResource.cache
+C:\Users\Barış\Desktop\Projem\Takvim\obj\Debug\Takvim.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Projem\Takvim\obj\Debug\Takvim.exe
+C:\Users\Barış\Desktop\Projem\Takvim\obj\Debug\Takvim.pdb
+C:\Users\Barış\Desktop\Takvim 2\bin\Debug\Takvim.exe.config
+C:\Users\Barış\Desktop\Takvim 2\bin\Debug\Takvim.exe
+C:\Users\Barış\Desktop\Takvim 2\bin\Debug\Takvim.pdb
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.Form1.resources
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.Properties.Resources.resources
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.UserControlBlank.resources
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.UserControlDays.resources
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.csproj.GenerateResource.cache
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.exe
+C:\Users\Barış\Desktop\Takvim 2\obj\Debug\Takvim.pdb
